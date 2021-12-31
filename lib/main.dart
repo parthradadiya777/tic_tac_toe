@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Tic_Tac_Toe',
+      title: 'Tic1_Tac_Toe',
       home: Tictaac(),
     );
   }
